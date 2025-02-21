@@ -3,19 +3,26 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Boss
+  - Bosshp
+  - BossBullet
+  - PlayerBullet
+  - DeathBackground
+  - Box
+  - Level
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Boss
   - Water
   - UI
   - Player
   - PlayerBullet
-  - 
-  - 
-  - 
+  - BossBullet
+  - Level
+  - Box
   - 
   - 
   - 
