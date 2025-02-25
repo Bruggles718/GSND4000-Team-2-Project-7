@@ -11,6 +11,9 @@ TagManager:
   - DeathBackground
   - Box
   - Level
+  - PistolHP
+  - RifleHP
+  - ShotgunHP
   layers:
   - Default
   - TransparentFX
