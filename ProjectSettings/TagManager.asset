@@ -11,12 +11,6 @@ TagManager:
   - DeathBackground
   - Box
   - Level
-  - PistolHP
-  - RifleHP
-  - ShotgunHP
-  - PistolDrop
-  - RifleDrop
-  - ShotgunDrop
   layers:
   - Default
   - TransparentFX
